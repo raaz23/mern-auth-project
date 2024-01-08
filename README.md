@@ -1,5 +1,5 @@
 MERN Stack Web Application with Authentication
-This is a full-stack web application built with the MERN (MongoDB, Express, React, Node.js) stack. The application includes authentication features that allow users to sign up, log in, and log out, and provides access to protected routes only for authenticated users.
+This is a full-stack web application built with the MERN (MongoDB, Express, React, Node.js) stack. The application includes authentication features that allow users to sign up, log in, and log out and provides access to protected routes only for authenticated users.
 
 Features
 Authentication: Users can sign up for an account, log in, and log out securely.
@@ -13,7 +13,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/raaz23/mern-auth
 cd your-repo
 Install Dependencies:
 
