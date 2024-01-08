@@ -1,51 +1,37 @@
-MERN Stack Web Application with Authentication
-This is a full-stack web application built with the MERN (MongoDB, Express, React, Node.js) stack. The application includes authentication features that allow users to sign up, log in, and log out and provides access to protected routes only for authenticated users.
 
-Features
-Authentication: Users can sign up for an account, log in, and log out securely.
-Protected Routes: Access to certain routes is restricted to authenticated users only.
-Front-End: Built with React and utilizes React Router for client-side routing.
-Back-End: Developed with Node.js and Express.
-Database: MongoDB is used as the database to store user information.
-JWT Authentication: Implements JSON Web Tokens (JWT) for secure authentication.
-Usage
-Clone the Repository:
+# MERN Stack Application Template
 
-bash
-Copy code
-git clone https://github.com/raaz23/mern-auth
-cd your-repo
-Install Dependencies:
+This is a full-stack web application built with the MERN (MongoDB, Express, React, Node.js) stack. It includes authentication features that allow users to sign up, log in, and log out, providing access to protected routes only for authenticated users.
 
-bash
-Copy code
-# Install server dependencies
-npm install
+## Features
 
-# Move to the client folder and install client dependencies
-cd client
-npm install
-Configure Environment Variables:
+- **Authentication:** Sign up, log in, and log out.
+- **Protected Routes:** Access to protected routes only for authenticated users.
 
-Create a .env file in the root directory and configure your MongoDB URI and JWT secret:
-env
-Copy code
-MONGODB_URI=your_mongodb_uri
-JWT_SECRET=your_jwt_secret
-Run the Application:
+## Technologies Used
 
-bash
-Copy code
-# Run the server and client concurrently
-npm run dev
-The application will be accessible at http://localhost:3000.
+- **Front-end:** React, React Router.
+- **Back-end:** Node.js, Express.
+- **Database:** MongoDB.
+- **Authentication:** JSON Web Tokens (JWT).
 
-About the Author
-This MERN stack application template was crafted with ❤️ by Raju Yadav, a passionate MERN-Stack developer. Connect with Raju on social media:
+## Getting Started
 
-Facebook
-Instagram
-LinkedIn
+1. Clone the repository.
+2. Install dependencies using `npm install` in both the `client` and `server` directories.
+3. Set up your MongoDB database and update the configuration in the server.
+4. Run the application using `npm start` in both the `client` and `server` directories.
+
+## Author
+
+This MERN stack application template was crafted with ❤️ by Raju Yadav, a passionate MERN-Stack developer.
+
+Connect with Raju on social media:
+
+- [Facebook](https://www.facebook.com/loveraju.yadav/)
+- [Instagram](https://www.instagram.com/raazveer30/)
+- [LinkedIn](https://www.linkedin.com/in/raju-yadav-148525283/)
+
 Contributing
 Contributions are welcome! If you have any suggestions, improvements, or issues, feel free to create a pull request or open an issue.
 
