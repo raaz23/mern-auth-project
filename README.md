@@ -10,7 +10,7 @@ This is a full-stack web application built with the MERN (MongoDB, Express, Reac
 
 ## Technologies Used
 
-- **Front-end:** React, React Router.
+- **Front-end:** React, React Router, Redux.
 - **Back-end:** Node.js, Express.
 - **Database:** MongoDB.
 - **Authentication:** JSON Web Tokens (JWT).
