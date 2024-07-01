@@ -1,12 +1,13 @@
 
 # MERN Stack Application Template
 
-This is a full-stack web application built with the MERN (MongoDB, Express, React, Node.js) stack. It includes authentication features that allow users to sign up, log in, and log out, providing access to protected routes only for authenticated users.
+This is a mean-stack web application built with the MERN (MongoDB, Express, React, Node.js) stack with authentication.
 
 ## Features
 
-- **Authentication:** Sign up, log in, and log out.
+- **Authentication:** Sign up, log in, log out, update account, and delete account.
 - **Protected Routes:** Access to protected routes only for authenticated users.
+- **User_CAN_DO:** create a recipe, view recipe, save their fav recipe, delete saved their fav recipe, and many more 
 
 ## Technologies Used
 
@@ -36,4 +37,4 @@ Contributing
 Contributions are welcome! If you have any suggestions, improvements, or issues, feel free to create a pull request or open an issue.
 
 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - on Raju Yadav @2024.
