@@ -1,7 +1,7 @@
 
 # MERN Stack Application Template
 
-This is a mean-stack web application built with the MERN (MongoDB, Express, React, Node.js) stack with authentication.
+This is a mern-stack web application built with the MERN (MongoDB, Express, React, Node.js) stack with authentication.
 
 ## Features
 
